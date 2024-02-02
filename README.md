@@ -2,14 +2,14 @@
 
 **Gilberto dos Santos**.
 
-• Web front-end com **ReactJs** <br/>
-• BackEnd **Java** <br/> 
+• Web Front-End with **ReactJs** <br/>
+• Back-End with **Java** <br/> 
 • Computer Science Student 🎓 <br/> 
-• Conhecimentos em **Python** e **PHP** <br/>
+• **Python** e **PHP** knowledges<br/>
 
-### Resumo:
-Formado em Técnico em Informática no IFSP,
-Em constante aprendizado para melhorar cada vez mais.
+### Abstract:
+Graduated in IT Technician at IFSP, and now studying Computer Science at UNIP. <br/>
+Constantly learning to improve more and more.
 
 <div>
   <a href="https://github.com/Gilbertosr5">
