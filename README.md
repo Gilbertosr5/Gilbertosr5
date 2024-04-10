@@ -2,7 +2,7 @@
 
 **Gilberto dos Santos**.
 
-• Web Front-End with **ReactJs** <br/>
+• Web Front-End with **ReactJs** and **React Native** <br/>
 • Back-End with **Java** <br/> 
 • Computer Science Student 🎓 <br/> 
 • **Python** e **PHP** knowledges<br/>
