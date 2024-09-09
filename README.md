@@ -28,4 +28,5 @@ Constantly learning to improve more and more.
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div><br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/Gilberto%20Ribeiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbertosr5/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/Gilberto%20Ribeiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbertosr5/) -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,apple,bootstrap,docker,figma,git,github,java,mysql,nodejs,npm,php,postman,py,react,redux,sass,sqlite,vscode,vite,yarn,androidstudio)](https://skillicons.dev)
