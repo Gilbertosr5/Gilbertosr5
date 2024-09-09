@@ -1,6 +1,4 @@
-## Hey! I am Gilberto dos Santos
-
-**Gilberto dos Santos**.
+## Hey! I am Gilberto dos Santos Ribeiro
 
 • Web Front-End with **ReactJs** and **React Native** <br/>
 • Back-End with **Java** <br/> 
