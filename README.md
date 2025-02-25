@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• Web Front-End with ReactJs and React Native<br>• Back-End with Java<br>• Computer Science Student 🎓<br>• Python & PHP knowledges</p>
+<p align="left">• React Native and Web Front-End with ReactJs <br>• Back-End with Java<br>• Computer Science Student 🎓<br>• Python & PHP knowledges</p>
 
 ###
 
