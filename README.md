@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I graduated in Information Technology from the Federal Institute. Currently, I am pursuing a degree in Computer Science. <br>I work as a Junior Mobile Developer and am actively seeking opportunities for personal growth and professional experience.</p>
+<p align="left">I graduated in Information Technology from the Federal Institute and in Computer Science. <br>I work as a Junior Mobile Developer and am actively seeking opportunities for personal growth and professional experience.</p>
 
 ###
 
@@ -18,6 +18,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gilbertosr5&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gilbertosr5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+I haven't posted any projects here in a long time, so most of them are older projects from my early days.
 
 ###
 
