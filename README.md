@@ -1,77 +1,90 @@
-<h2 align="center">Hi 👋! My name is Gilberto and I'm a Mobile Developer</h2>
-
-###
-
-<p align="left">• React Native and Web Front-End with ReactJs <br>• Back-End with Java<br>• Computer Science Student 🎓<br>• Python & PHP knowledges</p>
-
-###
-
-<h3 align="center">Abstract</h3>
-
-###
-
-<p align="left">I graduated in Information Technology from the Federal Institute and in Computer Science. <br>I work as a Junior Mobile Developer and am actively seeking opportunities for personal growth and professional experience.</p>
-
-###
-
+<!-- HEADER -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gilbertosr5&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gilbertosr5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+  <h1>Hi 👋, I'm Gilberto</h1>
+  <h3>Mobile Developer · React Native & ReactJS</h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&height=40&lines=Mobile+Developer+%40+IACIT;React+Native+%7C+ReactJS+%7C+TypeScript;Computer+Science+Graduate" alt="Typing SVG" />
 </div>
 
-###
+<br />
 
-I haven't posted any projects here in a long time, so most of them are older projects from my early days.
-
-###
-
+<!-- BADGES -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-</div>
-
-###
-
-<img align="right" height="120" src="https://media.tenor.com/B_p2kigHBqMAAAAM/deadpool-dance-bye-bye-bye.gif"  />
-
-###
-
-<div align="left">
   <a href="https://www.linkedin.com/in/gilbertosr5/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-<div style="margin-top:10px; padding: 10px; background-color:orange;">
   <a href="https://gilbertosr5.github.io/MyPortfolio/" target="_blank">
-    My Portfolio
+    <img src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Gilbertosr5&label=Profile%20views&color=2c5364&style=for-the-badge" alt="Profile views" />
+</div>
+
+<br />
+
+## 👨‍💻 About me
+
+I graduated in **Information Technology** from the Federal Institute and hold a degree in **Computer Science** 🎓.
+I currently work at **IACIT** as a **Frontend Developer**, always looking for opportunities for personal growth and professional experience.
+
+- 📱 Mobile apps with **React Native**
+- 🌐 Web front-end with **ReactJS**
+- ☕ Back-end with **Java**
+- 🐍 Working knowledge of **Python** and **PHP**
+
+<br />
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,java,python,php&theme=dark" alt="languages" />
+
+**Data, Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,figma,android,apple&theme=dark" alt="tools" />
+
+</div>
+
+<br />
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gilbertosr5&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilbertosr5&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true&locale=en" alt="Top languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilbertosr5&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<br />
+
+## 📌 Projects
+
+> Heads up: I haven't posted new projects here in a while, so most of the repositories are older ones from my early days.
+> For more recent work, check out my portfolio 👇
+
+<div align="center">
+  <a href="https://gilbertosr5.github.io/MyPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20my%20Portfolio-%E2%86%92-FF7A00?style=for-the-badge" alt="Visit my portfolio" />
   </a>
 </div>
 
-###
+<br />
 
-<br clear="both">
+## 🤝 Let's connect
 
-<!--<img src="https://raw.githubusercontent.com/Gilbertosr5/Gilbertosr5/output/snake.svg" alt="Snake animation" />-->
+<div align="center">
+  <a href="https://www.linkedin.com/in/gilbertosr5/" target="_blank">
+    <img src="https://img.shields.io/badge/Let's%20talk-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</div>
 
-###
+<!--
+<img src="https://raw.githubusercontent.com/Gilbertosr5/Gilbertosr5/output/snake.svg" alt="Snake animation" />
+-->
+
+<div align="center">
+  <sub>Thanks for stopping by! ⭐</sub>
+</div>
