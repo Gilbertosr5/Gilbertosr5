@@ -66,7 +66,7 @@ I currently work at **IACIT** as a **Frontend Developer**, always looking for op
 > For more recent work, check out my portfolio 👇
 
 <div align="center">
-  <a href="https://gilbertosr5.github.io/MyPortfolio/" target="_blank">
+  <a href="https://gilbertosr5.github.io/MyPortfolio/#projetos" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20my%20Portfolio-%E2%86%92-FF7A00?style=for-the-badge" alt="Visit my portfolio" />
   </a>
 </div>
